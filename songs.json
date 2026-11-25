@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updated": 1795605102026,
+ "updated": 1795605255846,
  "songs": [
   {
    "id": "smwt8rzgr0",
@@ -38,11 +38,6 @@
     {
      "name": "MPAMPITRAKA.mp3",
      "file": "audio/smwt8rzgr2_mww0urub_MPAMPITRAKA.mp3",
-     "size": 4577004
-    },
-    {
-     "name": "MPAMPITRAKA.mp3",
-     "file": "audio/smwt8rzgr2_mww0vvs1_MPAMPITRAKA.mp3",
      "size": 4577004
     }
    ],
